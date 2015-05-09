@@ -1,3 +1,3 @@
-public void main(String[] args){
-	printf("Hello World!");
+pblic void main(String[] args){
+	println("Hello World!");
 }
